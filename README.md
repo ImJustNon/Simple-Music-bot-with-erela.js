@@ -21,3 +21,11 @@ $ yarn add discord.js@~12.5.3 erela.js @discordjs/voice
 หรือ จะเอาไปลองศึกษาดูก็ได้ มันไม่ยากมาก
  ออกจะ simple เลยหละ ถ้าเขียนไปซักระยะอะน่ะ
 </h4>
+
+
+<h2>Lavalink ฟี<h2>
+```asciidoc
+Host     :: lavalink-1.nonnyha5.repl.co
+Port     :: 2333
+Password :: reirin
+```
