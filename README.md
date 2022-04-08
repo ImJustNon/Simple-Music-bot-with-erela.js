@@ -1,7 +1,7 @@
 # music-bot-one-file-challenge
 
 - code 
-```
+```js
 /**
  * Docs
  * npm install discord.js@~12.5.3 erela.js @discordjs/voice 
