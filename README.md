@@ -29,4 +29,5 @@ $ yarn add discord.js@~12.5.3 erela.js @discordjs/voice
 Host     :: lavalink-1.nonnyha5.repl.co
 Port     :: 443
 Password :: reirin
+Secure   :: true    <== อันนี้สำคัญนะ
 ```
